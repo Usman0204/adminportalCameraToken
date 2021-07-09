@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>edit-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-queckoo-web-app---admin-panel---products" transform="translate(-1718.000000, -367.000000)" fill="#6DD400" fill-rule="nonzero">
+            <g id="orders" transform="translate(466.666667, 212.000000)">
+                <g id="Group-11">
+                    <g id="order-1" transform="translate(0.000000, 132.000000)">
+                        <g id="edit-icon" transform="translate(1252.000000, 23.333333)">
+                            <path d="M16.4267156,0.882260674 C15.8618149,0.317267766 15.0955985,0 14.2966517,0 C13.4972439,-0.00229251721 12.7302439,0.315608192 12.1669106,0.882767766 L1.80365173,11.2451507 C1.71767655,11.3317713 1.65281485,11.4370621 1.61404535,11.5527713 L0.0405382543,16.2733387 C-0.096791533,16.6856046 0.126098538,17.1311082 0.538364495,17.2683919 C0.618346765,17.2950373 0.702109176,17.3087288 0.78637868,17.3087288 C0.870832581,17.3087288 0.954779389,17.2950373 1.03499215,17.2686224 L5.75555953,15.6951153 C5.87149925,15.6563919 5.97683613,15.5912075 6.0631801,15.5047252 L16.4263929,5.14151245 C17.6026163,3.96542734 17.6027546,2.05848408 16.4267156,0.882260674 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

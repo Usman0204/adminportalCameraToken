@@ -1,0 +1,24 @@
+.content{
+    background-color: whitesmoke;
+    height: auto;
+    width: 100%;
+    .mainhead{
+        padding: 20px;
+    }
+    .backgrounclr{
+        background-color: #fff;
+        border-radius: 10px;
+    }
+    .itemlisting {
+        height: 220px;
+        overflow-y: auto;
+    
+    ul.ulitems {
+        margin-left: -40px;
+            li.liitems {
+            display: inherit;
+            padding: 5px;
+            }
+        }
+    }
+}

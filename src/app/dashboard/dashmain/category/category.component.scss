@@ -1,0 +1,111 @@
+.content{
+    background-color: whitesmoke;
+    height: 100vh;
+    width: 100%;
+    .mainhead{
+        padding: 20px;
+    }
+    .form-control {
+        display: block;
+        margin-left: 40%;
+        width: 40%;
+        margin-bottom: 16px;
+        height: calc(1.5em + .75rem + 2px);
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: .25rem;
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    }
+    .fa-trash{
+        color: crimson;
+    }
+    .fa-eye{
+        color: lightgreen;
+    }
+    .fa-edit{
+        color: blue;
+    }
+    .btn-add{
+        color: #fff;
+        background-color: #28a745;
+        border-color: #28a745;
+        /* width: 10%; */
+        margin-left: 80%;
+        margin-top: -5%;
+        position: absolute;    
+
+    }
+    select.form-control {
+        margin-top: -40px;
+    }
+}
+.modalPop {
+    height: 300px;
+    width: 400px;
+    background-color: whitesmoke;
+    position: absolute;
+    transform: translate(50%, 50%);
+}
+
+div#otpModel {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 40%;
+    transform: translate(-50%, -50%);
+    background: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    color: #212529;
+    span#close {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      color: crimson;
+      padding: 5px 10px;
+      border-radius: 5px;
+      text-align: center;
+      border: 1px solid crimson;
+      &:hover {
+        background: crimson;
+        color: #fff;
+        cursor: pointer;
+      }
+    }
+    div#model-body {
+      div#qr-code {
+        text-align: center;
+      }
+      div#secret-key {
+        position: relative;
+        div.secretkey {
+          border: 1px solid #f4f4f4;
+          background: #ffffff;
+          color: #59c9f0;
+          padding: 8px;
+          border-radius: 3px;
+        }
+        span.click-board {
+          position: absolute;
+          top: 25px;
+          right: 10px;
+          color: #59c9f0;
+          font-size: 30px;
+          font-weight: bold;
+          cursor: pointer;
+          padding: 5px;
+        }
+      }
+      button {
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        width: 20%;
+      }
+    }
+  }

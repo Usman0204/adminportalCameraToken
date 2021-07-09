@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="9px" viewBox="0 0 14 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>drop-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-queckoo-web-app---admin-panel---add-products" transform="translate(-1573.000000, -394.000000)" fill="#272C37" fill-rule="nonzero">
+            <g id="form-field-3" transform="translate(1133.333333, 372.666667)">
+                <g id="Group-8" transform="translate(366.333333, 5.000000)">
+                    <g id="Group-5" transform="translate(73.666667, 2.000000)">
+                        <path d="M10.6567856,17.6346314 L5.29005885,12.384905 C4.90658087,12.0095297 4.32952142,11.8965807 3.82788008,12.0998889 C3.3274671,12.3034375 3,12.7823894 3,13.3127692 L3,23.8122221 C3,24.3426019 3.3274671,24.8215538 3.82788008,25.0251024 C4.32952142,25.2284106 4.90658087,25.1154616 5.29005885,24.7403266 L10.6567856,19.4903599 C11.1812735,18.9772829 11.1812735,18.1477084 10.6567856,17.6346314 Z" id="drop-arrow" transform="translate(7.025076, 18.562500) scale(1, -1) rotate(-90.000000) translate(-7.025076, -18.562500) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

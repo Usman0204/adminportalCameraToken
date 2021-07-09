@@ -1,0 +1,52 @@
+<div class="content">
+    <div class="container-fluid">
+        <h2 class="mainhead">Add ArtWork</h2>
+        <i (click)="goBack()" class="fas fa-arrow-left">&nbsp;Go Back</i>
+        <div class="card">
+            <div class="mainwall">
+                <div class="alert alert-danger" *ngIf="showerror">
+                    <p>{{errormsg}}.</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <label for="">Artwork Name</label>
+                        <input type="text" name="name" id="" class="form-control" [(ngModel)]="model.name"
+                            #name="ngModel">
+                    </div>
+                    <div class="col-lg-6">
+                        <label for=""> Description</label>
+                        <input type="text" name="description" id="" class="form-control" [(ngModel)]="model.description" #description="ngModel">
+                      
+                    </div>
+                </div>
+               
+              
+                <div class="row">
+                   
+                  
+                    <div class="col-lg-6">
+                        <label for=""> Image</label>
+                        <input type="file" name="" id="" class="form-control" (change)="uploadFile($event)">
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="switch ptb20">
+                            Put on marketplace &nbsp;&nbsp;&nbsp;
+                            <label class="switch">
+                                <input type="checkbox" [(ngModel)]="model.published" name="published"  #published="ngModel">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <img src="data:image/png;base64,{{base64}}" alt="" class="img-set"  *ngIf="base64">
+                    </div>
+                    <div class="col-lg-6">
+                        <button class="btn btn-add" type="submit" (click)="addproduct()">Add Artwork</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

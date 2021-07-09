@@ -1,0 +1,34 @@
+<div class="content">
+    <div class="container-fluid">
+        <h2 class="mainhead">Add Category</h2>
+        <i (click)="goBack()"class="fas fa-arrow-left">&nbsp;Go Back</i> 
+        <div class="card">
+        <div class="mainwall">
+            
+       
+        <div class="row">
+            <div class="col-lg-6">
+                <label for=""> Choose Category</label>
+                <select name="parentId" id="" class="form-control" [(ngModel)]="model.parentId" #parentId="ngModel">
+                    <option value="">Choose Category</option>
+                    <option value="{{items.id}}" *ngFor="let items of categoriesall">{{items.name}}</option>
+                </select>
+            </div>
+            <div class="col-lg-6">
+                <label for="">Sub Category Name</label>
+                <input type="text" name="name" id="" class="form-control" [(ngModel)]="model.name" #name="ngModel" >
+            </div>
+        </div>
+      
+        <div class="row">
+            <div class="col-lg-6">
+                
+            </div>
+            <div class="col-lg-6">
+              <button class="btn btn-add" type="submit" (click)="addSubcategory()">Add SubCategory</button>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+</div>

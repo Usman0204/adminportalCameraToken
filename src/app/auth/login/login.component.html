@@ -1,0 +1,40 @@
+<div class="background">
+    <div class="container">
+    <div class="panelbox">
+        <div class="imagelog">
+            <img src="../../../assets/img/logo-dark.svg" alt="">
+        </div>
+        <div class="heading">
+            <h2>Login Panel</h2>
+            <p>Don't have an account? <strong style="color: #2ea149;">Sign up</strong></p>
+        </div>
+        <div class="loginform">
+            <form name="form" (ngSubmit)="f.form.valid && onSubmit()"  #f="ngForm"  novalidate >
+                <div class="alert alert-danger" *ngIf="showerror">
+                    <p>{{errormsg}}.</p>
+                </div>
+                <div class="form-group">
+                    <label for="">Email/Mobile Number</label>
+                    <input type="email" class="form-control" [(ngModel)]="model.email" name="email" placeholder="" #email="ngModel" [ngClass]="{ 'is-invalid': f.submitted && email.invalid }" required >
+                    <div *ngIf="f.submitted && email.invalid" class="invalid-feedback">
+                        <div *ngIf="email.errors.required">Email is required</div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="">Password</label>
+                    <input type="password" class="form-control" [(ngModel)]="model.password" name="password" #password="ngModel" [ngClass]="{ 'is-invalid': f.submitted && password.invalid }" required > 
+                    <div *ngIf="f.submitted && password.invalid" class="invalid-feedback">
+                        <div *ngIf="password.errors.required">Password is required</div>
+                      
+                    </div>
+                </div>
+               <p>Forget password?</p>
+               <div class="loginbtn">
+                   <button class="btn btn-success" type="submit">Login </button>
+               </div>
+            </form>
+        </div>
+    </div>
+    </div>
+</div>

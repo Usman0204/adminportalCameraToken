@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="275px" height="274px" viewBox="0 0 275 274" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>total-users-sectors-oval</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-queckoo-web-app---admin-panel---dashboard" transform="translate(-1204.000000, -1041.000000)">
+            <g id="Total-Users" transform="translate(1096.000000, 834.666667)">
+                <g id="Group-14" transform="translate(108.000000, 193.333333)">
+                    <g id="oval" transform="translate(0.000000, 12.666667)">
+                        <g id="total-users-sectors-oval" transform="translate(137.475182, 137.521574) rotate(8.000000) translate(-137.475182, -137.521574) translate(15.975182, 16.021574)">
+                            <circle id="Oval" fill="#50C96C" opacity="0.18" cx="121.333333" cy="121.333333" r="102"></circle>
+                            <circle id="Oval" stroke="#50C96C" stroke-width="30.7999995" cx="121.333331" cy="121.333331" r="121.333331"></circle>
+                            <path d="M16.7192432,59.8324673 C6.09461682,77.8662098 0,98.8880335 0,121.333331 C0,188.34388 54.3227828,242.666663 121.333331,242.666663 C188.34388,242.666663 242.666663,188.34388 242.666663,121.333331 C242.666663,54.3227828 188.34388,0 121.333331,0" id="Path" stroke="#FFA48D" stroke-width="30.7999995" stroke-linecap="round"></path>
+                            <path d="M22.0952967,191.16201 C44.0572112,222.316274 80.3187272,242.666663 121.333331,242.666663 C188.34388,242.666663 242.666663,188.34388 242.666663,121.333331 C242.666663,54.3227828 188.34388,0 121.333331,0" id="Path" stroke="#8B7AD4" stroke-width="30.7999995" stroke-linecap="round"></path>
+                            <path d="M121.333331,242.666663 C188.34388,242.666663 242.666663,188.34388 242.666663,121.333331 C242.666663,54.3227828 188.34388,0 121.333331,0" id="Path" stroke="#626781" stroke-width="30.7999995" stroke-linecap="round"></path>
+                            <path d="M233.586589,167.471374 C239.438968,153.247902 242.666663,137.667551 242.666663,121.333331 C242.666663,54.3227828 188.34388,-5.30538567e-14 121.333331,-5.30538567e-14" id="Path" stroke="#D9C265" stroke-width="30.7999995" stroke-linecap="round"></path>
+                            <path d="M237.785515,87.1522839 C223.025467,36.7837788 176.475055,0 121.333331,0" id="Path" stroke="#00C6E5" stroke-width="30.7999995" stroke-linecap="round"></path>
+                            <path d="M216.74395,46.3677515 C194.528124,18.1322651 160.048236,-2.65269283e-13 121.333331,-2.65269283e-13" id="Path" stroke="#D7544F" stroke-width="30.7999995" stroke-linecap="round"></path>
+                            <path d="M190.289511,21.4859316 C170.70811,7.93707228 146.947622,1.06107713e-13 121.333331,1.06107713e-13" id="Path" stroke="#009386" stroke-width="30.7999995" stroke-linecap="round"></path>
+                            <path d="M147.086951,2.73870156 C138.786723,0.94472973 130.170354,5.83592424e-13 121.333331,5.83592424e-13 C115.510122,5.83592424e-13 109.782726,0.410223362 104.178465,1.20334785" id="Path" stroke="#009386" stroke-width="30.7999995"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

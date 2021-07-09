@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="64px" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>filters-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-queckoo-web-app---admin-panel---delivery" transform="translate(-1404.000000, -80.000000)">
+            <g id="top" transform="translate(466.666667, 78.666667)">
+                <g id="filters-icon" transform="translate(938.000000, 1.333333)">
+                    <rect id="Rectangle" fill="#50C96C" x="0" y="0" width="64" height="63.9999962" rx="10.666666"></rect>
+                    <g id="filter" transform="translate(18.666667, 18.666667)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M25.5998198,0 L1.06562697,0 C0.491390484,0 0.0259909016,0.465399582 0.0259909016,1.03963607 C0.0259909016,3.93477882 1.26705645,6.69874881 3.43100206,8.62227858 L7.9840801,12.6691432 C8.77355373,13.3708975 9.226364,14.3792633 9.226364,15.4357528 L9.226364,25.5738289 C9.226364,26.4022888 10.1522899,26.8989588 10.8424701,26.4386355 L16.9761198,22.3497388 C17.2652686,22.1568376 17.4390828,21.8323574 17.4390828,21.4847291 L17.4390828,15.4357528 C17.4390828,14.3792633 17.891893,13.3708975 18.6813666,12.6691432 L23.2342416,8.62227858 C25.3981872,6.69874881 26.6392528,3.93477882 26.6392528,1.03963607 C26.6392528,0.465399582 26.1738532,0 25.5998198,0 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

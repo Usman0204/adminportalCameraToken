@@ -1,0 +1,27 @@
+.background{
+    background-color: #fff;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif !important;
+    margin-left: -13px;
+    .imagedisplay{
+        height: auto;
+        display: block;
+        // width: 163px;
+        padding: 9px 8px;
+        margin: auto;
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+    ul.displayul{
+        padding-inline-start: 12px;
+        li.displayli {
+            display: block;
+            padding: 15px 10px;
+            img{
+                padding: 6px;
+            }
+        }
+    }
+}

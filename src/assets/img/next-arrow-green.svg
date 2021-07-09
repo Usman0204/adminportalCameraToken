@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="11px" viewBox="0 0 16 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>next-arrow-green</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06-queckoo-web-app---admin-panel---delivery---order-details" transform="translate(-115.000000, -357.000000)" fill="#50C96C" fill-rule="nonzero">
+            <g id="Sidebar">
+                <g id="tags" transform="translate(49.333333, 228.000000)">
+                    <g id="Group-4" transform="translate(66.000000, 119.500000)">
+                        <path d="M14.7070923,14.2932107 L10.7069702,10.2932718 C10.4211426,10.007261 9.99102784,9.92120144 9.61712645,10.0761086 C9.24414063,10.231199 9.00006105,10.5961282 9.00006105,11.000242 L9.00006105,14.000242 L1.00012209,14.000242 C0.448059094,14.000242 0,14.448118 0,15.000181 C0,15.5522439 0.448059094,16.0001199 1.00012209,16.0001199 L9.00006105,16.0001199 L9.00006105,19.0001199 C9.00006105,19.4042336 9.24414062,19.7691629 9.61712645,19.9242532 C9.99102784,20.0791604 10.4211426,19.9931008 10.7069702,19.7072732 L14.7070923,15.7071512 C15.0980225,15.316221 15.0980225,14.6841409 14.7070923,14.2932107 Z" id="next-arrow-green"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

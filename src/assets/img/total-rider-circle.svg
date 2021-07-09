@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="199px" viewBox="0 0 196 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>total-rider-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-queckoo-web-app---admin-panel---dashboard" transform="translate(-1450.000000, -446.000000)">
+            <g id="Total-Riders" transform="translate(1289.333333, 281.333333)">
+                <g id="center" transform="translate(46.000000, 162.666667)">
+                    <g id="total-rider-circle" transform="translate(123.333333, 17.333333)">
+                        <circle id="Oval" stroke="#50C96C" stroke-width="16.6666667" cx="85.8666679" cy="85.8666679" r="85.8666679"></circle>
+                        <path d="M29.4988089,150.642948 C44.5813923,163.778796 64.295089,171.733336 85.8666679,171.733336 C106.504068,171.733336 125.441017,164.452837 140.249198,152.320155" id="Path" stroke="#FFBE55" stroke-width="23.3333333" stroke-linecap="square"></path>
+                        <path d="M136.422148,155.280321 C157.825899,139.664775 171.733336,114.38985 171.733336,85.8666679 C171.733336,38.4438167 133.289519,4.24430867e-13 85.8666679,4.24430867e-13" id="Path" stroke="#F66739" stroke-width="30" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
